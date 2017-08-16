@@ -1,0 +1,19 @@
+.header {
+	background-color: black;
+	text-align: center;
+	color: #f1f1f1;
+	font-family: Georgia;
+	font-size: 30px;
+	padding: 10px;
+	margin: 0px;
+}
+
+.grayBox {
+	background-color: lightgray;
+	margin: 0px;
+}
+
+.body {
+	float: left;
+	font-family: Helvetica;
+}
